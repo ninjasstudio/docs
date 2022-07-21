@@ -1,6 +1,6 @@
 # Google
 
-You can directly import your GKA clusters from Google Cloud. To import your GKE clusters you have to provide a valide **Client ID** from a Google OAuth 2.0 application. The instructions on how to configure such an application can be found in the following.
+You can directly import your GKE clusters from Google Cloud. To import your GKE clusters you have to provide a valid **Client ID** from a Google OAuth 2.0 application. The instructions on how to configure such an application can be found in the following.
 
 | Value | Description |
 | ----- | ----------- |
